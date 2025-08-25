@@ -1,0 +1,5 @@
+{
+  "name": "catalog-commit-api",
+  "private": true,
+  "type": "module"
+}
